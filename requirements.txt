@@ -1,0 +1,5 @@
+opencv_python
+ast
+mediapipe
+pyautogui
+pygame
